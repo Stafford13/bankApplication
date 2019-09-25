@@ -1,0 +1,3 @@
+11111,Free Customer,94,F
+22222,Basic Customer,488,B
+33333,Premium Customer,-377,P

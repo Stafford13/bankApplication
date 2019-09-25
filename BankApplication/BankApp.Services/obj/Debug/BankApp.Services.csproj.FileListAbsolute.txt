@@ -1,0 +1,6 @@
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\bin\Debug\BankApp.Services.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\bin\Debug\BankApp.Services.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\obj\Debug\BankApp.Services.csprojAssemblyReference.cache
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\obj\Debug\BankApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\obj\Debug\BankApp.Services.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\BankApp.Services\obj\Debug\BankApp.Services.pdb

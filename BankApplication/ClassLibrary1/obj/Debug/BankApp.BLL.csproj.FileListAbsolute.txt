@@ -1,0 +1,16 @@
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Models.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Services.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Models.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Services.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\obj\Debug\BankApp.BLL.csprojAssemblyReference.cache
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\obj\Debug\BankApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\obj\Debug\BankApp.BLL.csproj.CopyComplete
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Data.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\BankApp.Data.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Users\apprentice.DESKTOP-U4PII7C\Desktop\Repo\eric-stafford-individual-work\OOP\Week4\Assessments\BankApplication\ClassLibrary1\bin\Debug\nunit.framework.xml
